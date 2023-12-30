@@ -6,3 +6,4 @@ Online streaming of each episode will be added soon ...
     
 # App Preview
 
+https://movie-character-app-iota.vercel.app/
